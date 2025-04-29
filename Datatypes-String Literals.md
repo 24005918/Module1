@@ -15,7 +15,7 @@ print("You entered:", men_stepped_on_the_moon)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/0e12a47d-8789-43aa-b93e-57770043b429)
+![438587449-f3d55b9f-5ff4-47ae-8d79-9281ac2ab951](https://github.com/user-attachments/assets/cee7760f-5a0e-4d9a-8c54-90001967c58a)
 
 ## Result
 Thus the program executed successfully.
