@@ -23,7 +23,7 @@ else:
 
 
 ## Output
-![ph1](https://github.com/user-attachments/assets/bcc3e78c-f725-4525-9dc6-0b12fbfbc132)
+![438584085-a7e9b92e-ae59-4ecc-a0ac-90f1424593ab](https://github.com/user-attachments/assets/5eb199eb-eb07-4af8-b337-cec3617dd9ce)
 
 ## Result
 Thus the program executed successfully.
